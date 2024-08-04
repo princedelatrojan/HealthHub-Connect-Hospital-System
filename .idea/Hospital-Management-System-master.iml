@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/DataTables/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/DataTables/images" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/Jcrop/demo_files" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bootstrap-datepicker/locales" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bootstrap/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bootstrap/fonts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bootstrap/js" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ckeditor/adapters" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ckeditor/lang" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ckeditor/plugins" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ckeditor/samples" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ckeditor/skins" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/fontawesome/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/fontawesome/fonts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/fontawesome/less" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/fontawesome/scss" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/fullcalendar/lang" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jquery-file-upload/cors" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jquery-file-upload/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jquery-file-upload/img" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jquery-file-upload/server" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jquery-file-upload/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jquery-ui/images" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jquery-validation/localization" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jstree/themes" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/themify-icons/fonts" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
